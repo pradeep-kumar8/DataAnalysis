@@ -1,33 +1,33 @@
 PMS
 
 
-Main
-![image](https://github.com/user-attachments/assets/5b56d353-7c5e-463e-b97d-f5deb41d2950)
+- Main Dashboard
+![image](https://github.com/user-attachments/assets/8ae00816-76d3-43c6-9bd7-c80228fb91fa)
 
-Main with KPI
-![image](https://github.com/user-attachments/assets/17cbc72e-71e2-4bad-8fbc-de4867f0c208)
+- Main Dashboard with Dynamic KPI (KPI Initiated for all Visuals)
+![image](https://github.com/user-attachments/assets/7cbfb772-7448-49ed-81bf-74d805d91f42)
+
 
 card
-![image](https://github.com/user-attachments/assets/c6cfa177-b812-4db1-ad4c-341c78a2507c)
+![image](https://github.com/user-attachments/assets/2d0cd761-e931-4133-a0d5-608172a46533)
 
 Donut
-![image](https://github.com/user-attachments/assets/c763838f-551f-4d28-843b-936a14e8c6c8)
+![image](https://github.com/user-attachments/assets/0c1435c1-163a-497a-a392-c3193f51f63f)
 
 SD/pm wise SLA Score
-![image](https://github.com/user-attachments/assets/d21501a6-0f74-4570-a90b-56b6cef139c2)
+![image](https://github.com/user-attachments/assets/76f3591d-816d-4fef-ab66-59b56eea5095)
 
 PM Quality Score
-![image](https://github.com/user-attachments/assets/049ab95f-ac4d-40cf-a9e0-7f3d69872800)
+![image](https://github.com/user-attachments/assets/e344ea8c-af75-49ec-b688-39d959358432)
 
 customer quality score
-![image](https://github.com/user-attachments/assets/3619573e-8467-4d48-8061-c313e3e421dd)
+![image](https://github.com/user-attachments/assets/bf954ba2-e47b-4de8-9c21-3a952d683309)
 
 Tooltip KPI
-![image](https://github.com/user-attachments/assets/543d287e-78ac-429b-8d88-34bd7425da94)
-
+![image](https://github.com/user-attachments/assets/e89e7947-8a4d-4b4f-add9-a8bbc5608b65)
 
 2nd main
-![image](https://github.com/user-attachments/assets/f223413e-0bbd-491d-8449-729b06d1aef2)
+![image](https://github.com/user-attachments/assets/0353b421-4fc4-43ef-8975-25b77b19ad08)
 
 2nd main with use
-![image](https://github.com/user-attachments/assets/cbfb745e-07a3-4849-ae73-347d3ebd1e7d)
+![image](https://github.com/user-attachments/assets/751b8e78-5325-4dff-9a71-60c2485b900b)
