@@ -1,7 +1,6 @@
 
 Call Analysis
-
-![image](https://github.com/user-attachments/assets/6da8d008-cc94-4956-894f-3b670ea89414)  
+![image](https://github.com/user-attachments/assets/c1bcff6d-1b31-4052-ba78-9c5a957dcc1c)
 
 Call Analysis  
 
