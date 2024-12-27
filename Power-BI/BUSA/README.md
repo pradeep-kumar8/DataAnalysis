@@ -31,12 +31,14 @@ Created date fields for tracking no-show trends over time, region, site, and man
 Data Filters: Implemented filters such as Month, Region, Customer, Location, and Central Account Manager for customized analysis.
 
 ## Visualizations
-
+---
 
 ### Business User Service Availability Dashboard – Main View Summary
 This Business User Service Availability Dashboard provides a powerful overview of service-related metrics for business users, highlighting availability, leave, no-shows, and regional or site-based insights. The dashboard integrates a variety of visualizations to help managers and decision-makers monitor the health of their workforce in real-time and spot trends that impact service delivery.
 
-![image](https://github.com/user-attachments/assets/a3cb2232-6c05-4ba6-9a5c-b26e48489f17)
+![image](https://github.com/user-attachments/assets/03e7571d-e068-47a7-812a-e642328327d2)
+
+---
 
 ### 1. KPI Cards (Top Row)
 Planned Leave (126): Shows the total planned leave taken by employees, with a no-show rate of 26.75%.
@@ -47,44 +49,57 @@ Total No Show (471): Cumulative no-show count, tracking a 100.00% no-show rate.
 Availability (1202): Total available hours, equating to 71.85% of committed hours.
 Committed (1673): Total committed hours, indicating 100.00% service commitment.
 
-![image](https://github.com/user-attachments/assets/22ea9b9b-09ff-48a7-9f0b-1ab3723cc43f)
+![image](https://github.com/user-attachments/assets/fc0a982d-f0c3-4885-aec9-b653760c9a87)
+
+---
 
 ### 2. No Show Reason (Bar Chart)
 Objective: A breakdown of the reasons for no-shows across various categories such as Remote Location, Resource Shortage, Late Reporting, and Accident.
 Key Insights: The most frequent reasons for no-shows are Remote Location (153) and Resource Shortage (124), highlighting areas that require intervention.
 
-![image](https://github.com/user-attachments/assets/2166ed16-c258-40e3-8e0f-f75e5182c74b)
+![image](https://github.com/user-attachments/assets/282e6c25-398c-4602-8130-b8ddba1ff2d9)
+
+---
 
 ### 3. No Show - Manager Wise (Bar Chart)
 Objective: This bar chart shows no-shows categorized by individual managers.
 Key Insights: Vinod Bhan (164) has the highest no-show count, followed by Avadhesh Jha (102) and Kunal Sapre (60). Managers with higher no-show counts may need to investigate reasons or implement changes to improve attendance.
 
-![image](https://github.com/user-attachments/assets/837eee18-7c2d-4a15-95a6-6c2b2f5df96c)
+![image](https://github.com/user-attachments/assets/0aa3c4fa-01be-4bcf-8897-661caeb4653c)
 
+---
 
 ### 4. No Show - Region Wise (Donut Chart)
 Objective: This donut chart shows the percentage distribution of no-shows across different regions.
-Key Insights: The West region accounts for the largest percentage of no-shows (43.9%), followed by the North (28.2%) and South (25.7%), indicating a potential regional issue in these areas.
+Key Insights: The West region accounts for the largest percentage of no-shows (43.9%), followed by the North (28.2%) and South (25.7%), indicating a potential regional issue in these areas.   
 
-![image](https://github.com/user-attachments/assets/8a7f45d2-9d8f-420c-a05e-7530c28036d6)
+![image](https://github.com/user-attachments/assets/f82adb80-c8b9-47e3-9f79-1bacc68e0925)
+
+---
 
 ### 5. No Show Trend - Region Wise (Area Chart)
 Objective: Displays monthly trends of no-shows broken down by region.
 Key Insights: Peaks in no-shows are visible in August and September, particularly in the West region, indicating seasonal trends or specific issues in these months.
-![image](https://github.com/user-attachments/assets/d167165e-f6cd-49d2-b828-136f9d26d0c1)
 
+
+![image](https://github.com/user-attachments/assets/f1f16d47-3617-41ba-a285-d92b098f09ad)
+
+---
 
 ### 6. No Show - Site Wise (Bar Chart)
 Objective: This chart provides a breakdown of no-shows based on various sites or client locations.
 Key Insights: Suzlon (196) and MAX (66) have the highest no-show rates among sites. Further analysis may be needed to address site-specific issues that contribute to no-shows.
-![image](https://github.com/user-attachments/assets/8f67e688-7bee-427f-b538-05f0e864ab22)
 
+![image](https://github.com/user-attachments/assets/48586c8f-51bd-474d-9632-e77cb7babde4)
 
+---
 
 ### 7. No Show Continuity - Location Wise (Line Chart)
 Objective: This chart is activated when clicking the replace icon on the Site Wise chart. It provides a breakdown of no-show continuity across various locations, tracking when no-shows started, how they continued over time, and when they ended.
 
-![image](https://github.com/user-attachments/assets/057a9226-30d4-410a-8972-54b94f437723)
+![image](https://github.com/user-attachments/assets/93a0b1ab-10ee-482f-a4b7-854bf4d84ef3)
+
+---
 
 ## Project Insights
 High No-Show Rates in Specific Regions:
