@@ -31,7 +31,6 @@ Created date fields for tracking no-show trends over time, region, site, and man
 Data Filters: Implemented filters such as Month, Region, Customer, Location, and Central Account Manager for customized analysis.
 
 ## Visualizations
----
 
 ### Business User Service Availability Dashboard – Main View Summary
 This Business User Service Availability Dashboard provides a powerful overview of service-related metrics for business users, highlighting availability, leave, no-shows, and regional or site-based insights. The dashboard integrates a variety of visualizations to help managers and decision-makers monitor the health of their workforce in real-time and spot trends that impact service delivery.
