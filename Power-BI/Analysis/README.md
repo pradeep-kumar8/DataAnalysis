@@ -9,8 +9,7 @@ The primary goal of this dashboard is to:
 3. Identify high-volume ticket categories and specific issues to prioritize resources for resolution.
 4. Provide actionable insights to improve the ticket resolution rate and reduce unresolved tickets.
 
-![image](https://github.com/user-attachments/assets/282591b8-cced-415e-8078-bf3b4b889ea3)
-
+![image](https://github.com/user-attachments/assets/b4fb7c4b-bfac-4138-a68b-f3de14492967)
 
 
 ## Cards:
@@ -22,7 +21,7 @@ The cards provide a quick overview of the main Key Performance Indicators (KPIs)
 3. Ticket Reduction: Shows the ticket reduction rate (30.98%) and its growth percentage (6.58%), reflecting the effectiveness of ticket management over time.
 4. Not Doable: Displays tickets that are considered non-resolvable (2,571), along with the percentage they represent of the total ticket count (69.02%).
 
-![image](https://github.com/user-attachments/assets/538e2faf-6393-4f89-a686-f32bddf8f1b5)
+![image](https://github.com/user-attachments/assets/248f3137-c32e-48c9-bd23-4798dacc637d)
 
 
 ## Target Trend (Ticket Resolution Progress Over Time):
@@ -32,7 +31,7 @@ This line graph visualizes the progress of ticket resolution over specific time 
 1. The graph shows resolution progress at different time intervals (3 months, 6 months, 12 months), with percentages increasing from 31% to 41%.
 2. This trend line helps assess whether the ticket resolution rate is improving over time, which can guide resource allocation and process improvements.
 
-![image](https://github.com/user-attachments/assets/1f5da38a-5298-4c47-8be9-5e9382b0d9a9)
+![image](https://github.com/user-attachments/assets/fb21acb3-c0c8-4558-954b-5686297a061a)
 
 
 ## Column Chart (Category Analysis):
@@ -45,7 +44,7 @@ Each bar represents the number of tickets in a category, with "Software" being t
 
 This visual enables a quick comparison of ticket volumes across categories, helping teams focus on high-ticket areas.
 
-![image](https://github.com/user-attachments/assets/49101996-c9a2-4645-9c72-f7aefe928f15)
+![image](https://github.com/user-attachments/assets/f3215476-7632-4886-92da-49f5bcac64b7)
 
 
 ## Closure Rate (Donut Chart):
@@ -58,7 +57,7 @@ The inner circle represents the total ticket count (3,725).
 2. Not Doable: Tickets that cannot be resolved (69.02%).
 3. This visual helps stakeholders quickly grasp the closure rate and understand the division of resolved versus unresolved tickets.
 
-![image](https://github.com/user-attachments/assets/250354c4-0537-4be9-8214-283b6df99958)
+![image](https://github.com/user-attachments/assets/ad147eac-aeaa-4da5-a915-25b6155ea469)
 
 
 ## Table (Sub-Category Breakdown):
@@ -72,7 +71,7 @@ The table provides a detailed breakdown of tickets by sub-category, including th
 
 **Insight:** This table allows for a granular view of the types of issues encountered and highlights areas with higher unresolved ticket counts, helping teams prioritize based on specific issues.
 
-![image](https://github.com/user-attachments/assets/29354dae-a967-4bd7-ac8b-c186bf795852)
+![image](https://github.com/user-attachments/assets/e50a9b85-a838-4e64-ad49-6181915e8886)
 
 ## Achievements:
 1. Visibility into Ticket Resolution: The dashboard highlights that out of 3,725 total tickets, 1,154 (30.98%) are resolvable, while 2,571 (69.02%) are classified as "Not Doable." This breakdown helps stakeholders quickly understand the closure rate.
